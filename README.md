@@ -7,7 +7,7 @@ Create file `src/secrets.json` and fill the information needed from this templat
 
 ```json
 {
-    BOT_TOKEN: "DISCORD_BOT_TOKEN"
+    "BOT_TOKEN": "DISCORD_BOT_TOKEN"
 }
 ```
 
