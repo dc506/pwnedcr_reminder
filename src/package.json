@@ -1,0 +1,14 @@
+{
+  "name": "pwnedcr_reminder",
+  "version": "0.0.1",
+  "description": "pwnedcr discord bot reminder using Pretalx API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "cedric",
+  "license": "MIT",
+  "devDependencies": {
+    "discord.js": "^12.5.0"
+  }
+}
